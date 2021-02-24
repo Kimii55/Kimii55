@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphics Design, Development
 </li>
 <li>
-<b>Working :</b> Sakura
+<b>Working :</b> Discord Bot
 </li>
 <br>
 </div>
