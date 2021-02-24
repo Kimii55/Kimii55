@@ -14,7 +14,7 @@
 <b>Nationality:</b> German
 </li>
 <li>
-<b>Loves:</b> you! and coding planet -///-
+<b>Loves:</b> you! and coding planet
 </li>
 <li>
 <b>Gender:</b> Men
@@ -23,14 +23,14 @@
 <b>Hobbys:</b> Tech Stuff, Graphics Design, Development
 </li>
 <li>
-<b>Working @:</b> Sakura
+<b>Working :</b> Sakura
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
                   verwy cuwute of chu</b></p>
 </div>
 <div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="left">            ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~</h2>
 <p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
