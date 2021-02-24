@@ -26,8 +26,6 @@
 <b>Working :</b> Sakura
 </li>
 <br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
 </div>
 <div>
 </body>
