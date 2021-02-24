@@ -40,7 +40,7 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
 </p>
 <br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2>           ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Hewe awe some of my <br>
@@ -50,11 +50,6 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
-<br>
-<div align="center"><p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&redirect=true)
 <p>
 <br>
 <br>
