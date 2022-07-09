@@ -1,9 +1,7 @@
-## Welcome to my GitHub Profile!
+# Hey, welcome to my GitHub!
 
-- Due to that the most of my work is closed source, you won't see a lot at my GitHub Profile
-- Started with coding few months ago, trying to get better everyday...
-- Like to talk with people about nerdy and political stuff
-- Love every kind of music, wether it's Rock, Rap or Pop
-- Like to help people getting started with programming
-- Trying to do sports, failing every morning
-- You can find more about me on my website
+Hello and welcome to my profile i am glad you found me i am new to programming and currently trying to learn different programming languages including python i will post some projects for the public when i get something done if you want you can visit my social media channels at the following link https://ayla.error44.tech/
+
+### Some statistics about me and my activity on GitHub
+
+![chokuu's github stats](https://github-readme-stats.vercel.app/api?username=chokuu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
