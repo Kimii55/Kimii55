@@ -1,6 +1,6 @@
 # Hey, welcome to my GitHub!
 
-Hello and welcome to my profile i am glad you found me i am new to programming and currently trying to learn different programming languages including python i will post some projects for the public when i get something done if you want you can visit my social media channels at the following [links](https://ayla.error44.tech/).
+Welcome to my profile i am glad you found me i am new to programming and currently trying to learn different programming languages including python i will post some projects for the public when i get something done if you want you can visit my social media channels at the following [links](https://ayla.error44.tech/).
 
 ### Some statistics about me and my activity on GitHub
 
