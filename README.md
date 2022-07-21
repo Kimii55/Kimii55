@@ -4,4 +4,4 @@ Hello and welcome to my profile i am glad you found me i am new to programming a
 
 ### Some statistics about me and my activity on GitHub
 
-![chokuu's github stats](https://github-readme-stats.vercel.app/api?username=chokuu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
+![Ayla2222's github stats](https://github-readme-stats.vercel.app/api?username=Ayla2222&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
