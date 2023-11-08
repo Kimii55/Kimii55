@@ -1,12 +1,6 @@
-# Hey, welcome to my GitHub!
+![Banner](https://i.imgur.com/4xmTKAE.gif)
 
-Welcome to my profile i am glad you found me i am new to programming and currently trying to learn different programming languages including python i will post some projects for the public when i get something done if you want you can visit my social media channels at the following [links](https://jassy.error44.tech/).
-
-### Some statistics about me and my activity on GitHub
-
-![Kimii55's github stats](https://github-readme-stats.vercel.app/api?username=Kimii55&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
-
-### Projects from my [sweetheart](https://github.com/Error44s)
-Siesta is an all-rounder Discord bot that focuses on anime and also specializes in roleplay games. Siesta also has its own image API so that users can communicate with each other in a different way.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Examples&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Bot&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot)
+- I don't often have the chance to post my projects online because a lot of them aren't open source. But when I do work with a team, I like to share what we've been working on. Sharing knowledge and experiences can be really valuable, especially in the tech field.
+- Over the past few years, I have worked on a number of projects. One of the most successful so far has been the Crowny Discord bot. It has received a lot of positive feedback and has proven to be a valuable asset to many users.
+- Although I have a fair amount of experience with various programming languages, I still struggle with writing error-free code. Despite this, I enjoy helping others, particularly those who are new to programming, and try to encourage them to improve their skills. I believe that with dedication and practice, anyone can become proficient in coding.
+- You can find more about me on my [links](https://jassy.error44.tech/)!
