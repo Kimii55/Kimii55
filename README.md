@@ -1,5 +1,5 @@
 <p align="center"> 
-     <img src="https://github-profile-trophy.vercel.app/?username=Kimii55&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&no-bg=true&no-frame=true" alt="Kimii55" /></a> 
+     <img src="https://github-profile-trophy.vercel.app/?username=Kimii55&theme=darkhub&no-frame=true&no-bg=true&rank=-SECRET" alt="Kimii55" /></a> 
      </p>
 
 ![Banner](https://i.imgur.com/4xmTKAE.gif)
