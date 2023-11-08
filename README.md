@@ -1,3 +1,7 @@
+<p align="center"> 
+     <img src="https://github-profile-trophy.vercel.app/?username=Kimii55&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&no-bg=true&no-frame=true" alt="Kimii55" /></a> 
+     </p>
+
 ![Banner](https://i.imgur.com/4xmTKAE.gif)
 
 - I don't often have the chance to post my projects online because a lot of them aren't open source. But when I do work with a team, I like to share what we've been working on. Sharing knowledge and experiences can be really valuable, especially in the tech field.
